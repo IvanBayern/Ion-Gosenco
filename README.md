@@ -2,10 +2,15 @@
 
 ### About Me
 
-- :telescope: I’m junior Front-end developer.
+- I’m junior Front-end developer.
+- I’m currently learning JavaScript, React.
+
+- [My resume](https://IvanBayern.github.io/resume/)
+
+<!-- - :telescope: I’m junior Front-end developer.
 - :seedling: I’m currently learning JavaScript, React.
 
-- :octocat: [My resume](https://IvanBayern.github.io/resume/)
+- :octocat: [My resume](https://IvanBayern.github.io/resume/) -->
 
 ---
 
