@@ -19,13 +19,14 @@
 
 ---
 
+<!--
 | **GitHub Analytics** | **Codewars** |
 | -------------------- | ------------ |
 
 | ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbayern
 &layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) | <a href="https://www.codewars.com/users/ivanbayern
 "><img src="https://www.codewars.com/users/ivanbayern
-/badges/large" alt="codewars profile badge"></a> |
+/badges/large" alt="codewars profile badge"></a> | -->
 
 ---
 
@@ -35,13 +36,13 @@
 
 ---
 
-### Courses
+<!-- ### Courses
 
 - [GoIT Full Stack Developer](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#home-work-goit-course-full-stack-developer)
   - [x] [HTML&CSS](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#html--css)
   - [x] [JavaScript](https://github.com/savchyndd/hw-goit-fullstack/blob/main/README.md#javascript)
 
----
+--- -->
 
 ### Connect with me
 
