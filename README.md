@@ -16,11 +16,11 @@
 
 ### Projects
 
-- [Ice Cream](https://ivanbayern.github.io/team-project-ic/)
+- [Ice Cream](https://b3dyk.github.io/icecream/)
 - [Web Studio](https://ivanbayern.github.io/goit-markup-hw-08/)
 - [Amber Global](https://amberglobal.group/)
 - [Made of Amber](https://ivanbayern.github.io/amber-tiles/)
-- [filmoteka-team-project](https://ivanBayern.github.io/filmoteka-team-project/)
+- [filmoteka-team-project](https://deadlypants11.github.io/project/)
 
 ---
 
