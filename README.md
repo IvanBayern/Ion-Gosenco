@@ -5,7 +5,7 @@
 - I’m junior Front-end developer.
 - I’m currently learning JavaScript, React.
 
-- [My resume](https://IvanBayern.github.io/resume/)
+- [My resume](https://ivanbayern.github.io/lebenslauf/)
 
 <!-- - :telescope: I’m junior Front-end developer.
 - :seedling: I’m currently learning JavaScript, React.
